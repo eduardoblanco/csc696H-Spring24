@@ -1,2 +1,2 @@
-# class-test
-This is a test for a class
+# class-template
+This is a template for a seminar
